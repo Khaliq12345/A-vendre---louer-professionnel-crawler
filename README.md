@@ -1,8 +1,8 @@
-# Crawlee + TypeScript empty project
+# Crawlee + TypeScript
 
-This template is a production ready boilerplate for developing with Crawlee. Use this to bootstrap your projects using the most up-to-date code.
+- Pour exécuter le code
+    git clone https://github.com/Khaliq12345/A-vendre---louer-professionnel-crawler.git
+    cd A-vendre---louer-professionnel-crawler
+    npm install
+    npm run start
 
-If you're looking for examples or want to learn more visit:
-
-- [Quick Start](https://crawlee.dev/docs/quick-start)
-- [Examples](https://crawlee.dev/docs/examples)
